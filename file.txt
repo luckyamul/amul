@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hi lucky this is new msg.
 welcome back lucky.
+=======
+hi lucky this is new msg..
+this is my 2nd msg..
+>>>>>>> refs/remotes/origin/master
